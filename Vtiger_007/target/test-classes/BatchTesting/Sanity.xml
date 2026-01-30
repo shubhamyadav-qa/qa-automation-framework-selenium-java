@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Suite name="Sanity Test suite">
+<test   name="Sanity Test">
+<classes>
+<class  name="BatchTesting.PaymentTest"/>
+</classes>
+</test>
+</Suite>
